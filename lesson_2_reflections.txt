@@ -8,4 +8,8 @@ What value do you think it offers?
 
 Staging area is where we put all files concerned by that "logical change" we want
 to make in our commit. WD is the physical directory with all the files on disk.
-Repository is all files and their versions 
+Repository is all files and their versions
+
+How can you use the staging area to make sure you have one commit per logical change?
+Only add concerned files to the staging area. Work on them. Commit. Repeat with
+different logical change on new staging area.
