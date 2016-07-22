@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Creates a hidden folder that will keep all our controlled versions.
+No version control until git is actually initialized in that directory.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+Staging area is where we put all files concerned by that "logical change" we want
+to make in our commit. WD is the physical directory with all the files on disk.
+Repository is all files and their versions 
