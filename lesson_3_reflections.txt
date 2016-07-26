@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+It works as kind of a remote backup. Allows to work from different computers. Allows to work with multiple people at the same time.
